@@ -1,1 +1,1 @@
-# Logos_IT_Academy--Basics-of-JavaScript
+# Logos_IT_Academy-Basics-of-JavaScript
